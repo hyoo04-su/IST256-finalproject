@@ -1,0 +1,7 @@
+import pandas as pd
+
+user_preference = input("Which store do you prefer to shop at? Walmart or Target?")
+
+if user_preference == 'Target':
+  
+elif user_preference == 'Walmart':
